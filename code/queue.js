@@ -1,4 +1,4 @@
-class Queue {
+module.exports = class Queue {
     constructor() {
         this.count = 0
         this.lowestCount = 0
