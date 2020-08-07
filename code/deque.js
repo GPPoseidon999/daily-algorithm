@@ -1,4 +1,4 @@
-export default class Deque {
+module.exports = class Deque {
     constructor() {
         this.count = 0
         this.lowestCount = 0
